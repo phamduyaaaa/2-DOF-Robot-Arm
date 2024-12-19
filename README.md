@@ -4,7 +4,8 @@
 
 ![2024-12-1817-41-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6e6a653a-6bbc-43af-aeba-da5a3db02f80)
 #### Mô phỏng quỹ đạo 2-1-2 di chuyển từ (0, 0) đến (pi/2, pi/2) trong thời gian 4s.
-
+![image](https://github.com/user-attachments/assets/d82b5814-a58a-4f42-b3fe-70dfbb0e8a47)
+#### Sơ đồ quỹ đạo chuyển động
 ![image](https://github.com/user-attachments/assets/dc26bfb5-61a6-4663-a9aa-222784296dc9)
 #### Sơ đồ khối điều khiển cánh tay
 ![image](https://github.com/user-attachments/assets/f5867be2-ca53-4612-b015-b445db42b84c)
